@@ -23,15 +23,15 @@ The userbase is primarily male, aged between 25-33. Additionally, subscriber use
 
 Additionally visible is the strong negative correlation between average trip duration and user age. The youngest members of the userbase logged the average longest trip duration (averaging trips between 25-33 minutes for those under the age of 20), while average trip times gradually declined with increasing age. Trip duration and age data was filtered to exclude those users with a stated age over 70 due to unreliable data, and customer users were excluded entirely from the average trip duration calculations due to an inordinate amount of customers reporting a birth year of 1969 (for dubious reasons).
 
-![User-Demographics](Images/User_Demographics_Dashboard.jpg)
+![User-Demographics](Images/User_Demographics_Dashboard.JPG)
 
 In examining the most popular stations to start a ride in 2020, the predominant trend is the high concentration of stations located in lower Manhattan, likely due to the popularity of the program with urban commuters. Notably, during the beginning of the year, the most popular stations to start a ride were concentrated near [Grand Central Station](https://www.citibikenyc.com/attractions/grand-central), while trips beginning in summer and early fall months tended to be concentrated nearer to the Hudson River, including the station directly adjacent to the [West 39th Street Ferry Terminal](https://goo.gl/maps/xLeeCPdBdcW68NW48), likely suggesting a positive correlation to other seasonal commuting trends (taking the ferry to Manhattan in warmer months, etc.) as users utilized Citi Bike as the "last leg" of their daily commutes.
 
-![Starting-Stations](Images/Starting_Stations_Dashboard.jpg)
+![Starting-Stations](Images/Starting_Stations_Dashboard.JPG)
 
 Similar trends are visible in the mapping of the most popular stations to end a ride, again likely indicating a positive correlation to urban commuters reversing the same methods of transportation and routes taken into Manhattan earlier in the day.
 
-![Ending-Stations](Images/Ending_Stations_Dashboard.jpg)
+![Ending-Stations](Images/Ending_Stations_Dashboard.JPG)
 
 Finally, when examining data related to the most popular days of the week and times to utilize the Citi Bike system, a number of additional trends are visible. When first examining the running total of total rides taken throughout the year, it is apparent that usage accelerated in the summer months as warmer weather became more prevalent. Significant growth in usage was seen in July for example, with Sundays in July being the first day of the week to break the million ride mark following month over month growth of approximately 77% in May and 39% in June. Saturdays subsequently broke the two million ride mark just a few months later in October, indicating the rapid rise in utilization of over the summer and early fall months.
 
@@ -39,7 +39,7 @@ Trend lines are also drawn illustrating the trend in weekly rides during each mo
 
 When examining the most popular ride start times by day of the week, some other notable trends are visible. For example, rides beginning between the hours of 7AM and 9AM and between 5PM and 7PM are most prevalent on weekdays (Monday through Friday), likely related again to urban commuters, while the daytime usage (between the hours of 10AM and 4PM) is most common on Saturdays and Sundays, potentially related to higher rates of recreational and/or errand-related trips vs. the higher rate of work commute-related trips taken during the week. Also unsurprisingly, late night trip start times (beginning after 9PM) are highest on Saturdays, and early morning  trips (before 5AM) tend to occur on Sunday mornings, again pointing to a likely positive correlation to high rates of recreational use on the weekends. Additional data would be required in order to further definitively correlate these trends to potential other lifestyle-related factors.
 
-![Day-Time-Trends](Images/Day_Time_Trends_Dashboard.jpg)
+![Day-Time-Trends](Images/Day_Time_Trends_Dashboard.JPG)
 
 ## Notes
 
